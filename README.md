@@ -1,6 +1,8 @@
 ## Business Goal
-#### Fraud has been a modern issues for decade. ...  
+#### Fraud has been a modern issue for decades. ...  
 
+## Overview 
+#### 
 
 ## Dependencies 
 - Jupyter notebook
@@ -36,3 +38,4 @@
 - is_fraud - Fraud Flag <--- Target Class
 
 Data Sources: https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
