@@ -1,5 +1,5 @@
 ## Business Goal
-#### Fraud has been a modern issue for decades. ...  
+#### Fraud has been a modern issue for decades. 
 
 ## Project Overview 
 #### 
