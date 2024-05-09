@@ -1,8 +1,5 @@
 ## Business Goal
-#### Fraud has been a modern issue for decades. 
-
-## Project Overview 
-#### 
+#### In the digital era, safeguarding credit card transactions against fraud is crucial for all banking institutions. Our goal is to develop an advanced credit card fraud detection model that significantly enhances the security measures in place. By leveraging accurate predictive analytics, we aim to proactively identify and prevent fraudulent transactions based on each customer's transaction history. This will not only prevent financial losses for our customers but also boost their satisfaction and loyalty towards our bank. Through this project, we intend to provide bankers with reliable tools to effectively classify and manage fraud, ultimately reinforcing our commitment to security and customer service excellence.
 
 ## Dependencies 
 - Jupyter notebook
