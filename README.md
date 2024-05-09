@@ -1,12 +1,5 @@
-## Overview
-#### In this project we are going the 
-
-
-## We will discover: 
--  What was the change in stock prices from 2014 to 2024?
--  What was the moving average for these stocks? (5, 50, and 120 days)
--  What are the anticipated returns and risks associated with each stock per share?
--  Predict the future price stock LSTM machine learning method. 
+## Business Goal
+#### Fraud has been a modern issues for decade. ...  
 
 
 ## Dependencies 
@@ -16,7 +9,6 @@
 - Matplotlib
 - Sklearn
 - Seaborn
-
 
 ## Features
 - index - Unique Identifier for each row
@@ -43,3 +35,4 @@
 - merch_long - Longitude Location of Merchant
 - is_fraud - Fraud Flag <--- Target Class
 
+Data Sources: https://www.kaggle.com/datasets/kartik2112/fraud-detection
