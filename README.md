@@ -1,5 +1,5 @@
 ## Overview
-#### In this project are doing the 
+#### In this project we are going the 
 
 
 ## We will discover: 
